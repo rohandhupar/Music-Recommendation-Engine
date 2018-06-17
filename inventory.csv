@@ -1,0 +1,114 @@
+inventory_id,inventory_name,vendor_preferred,classification,vendor_backup,office_location,inventory_url,vendor_reorder_number,log_timestamp,expected_usage_weekly,expected_usage_monthly,company_id
+100,cups,Pearson,disposibles,,,,,2018-03-12 19:10:10.977656,,,1
+6,Hand Wash Soap,,,,Both Restrooms,,,2018-03-05 00:00:00.000000,,,1
+4,Toilet paper Rolls,,Restroom,,Both Restrooms,,,2018-03-05 00:00:00.000000,,,1
+5,Toilet Seat covers,,Restroom,,Both Restrooms,,,2018-03-05 00:00:00.000000,,,1
+1,Glove,Pearson,Preventive,Henry Schein,in 3'rd room,,,2018-03-05 00:00:00.000000,,,1
+2,Prophy Paste,,Preventive,,in central area,,,2018-03-05 00:00:00.000000,,,1
+10,Sanicloth,Pearson,Sterilization,,Cabinet 2 Reception Area,,,2018-03-06 22:11:49.403247,,,1
+82,etch,Pearson,composites,,,,,2018-03-12 17:03:56.999086,,,1
+14,small mixing pads,Pearson,,,,,,2018-03-07 20:28:50.836508,,,1
+15,slow handpiece sleeves,Pearson,Sterilization,,sterization lab,,,2018-03-07 20:29:54.736215,,,1
+83,hemodant ,Pearson,crown and bridge,,,,,2018-03-12 17:04:36.465454,,,1
+13,grren points ,Pearson,burs,,bur block,,,2018-03-07 19:57:51.803493,,,1
+12,mandrill,Pearson,burs,,bur block,,,2018-03-07 19:56:54.168214,,,1
+3,Plastic Tray Covers,Pearson,Preventive,,sterization lab,,,2018-03-05 00:00:00.000000,,,1
+16,silk sutures,Pearson,,,,,,2018-03-07 20:41:07.277704,,,1
+17,mouth mirrors,Pearson,instruments,,,,,2018-03-07 20:41:56.462662,,,1
+18,face shields,Pearson,Preventive,,,,,2018-03-07 20:43:05.329304,,,1
+19,face masks,Pearson,Preventive,,,,,2018-03-07 20:43:42.203949,,,1
+20,acrylic,Pearson,crown and bridge,,treatment room 1,,,2018-03-07 20:45:16.067736,,,1
+21,cetacaine,Pearson,,,,,,2018-03-07 20:45:57.173517,,,1
+22,knit cuff gowns,Pearson,Preventive,,,,,2018-03-07 20:46:46.980685,,,1
+24,night guard material,Pearson,,,2nd lab,,,2018-03-07 20:49:18.010638,,,1
+25,articulating paper,Pearson,,,,,,2018-03-07 20:50:08.574990,,,1
+26,brite shield,Pearson,Sterilization,,sterization lab,,,2018-03-07 20:51:01.298573,,,1
+27,hemodent,Pearson,crown and bridge,,,,,2018-03-07 20:51:38.876218,,,1
+28,floss refills ,Pearson,Preventive,,,,,2018-03-07 20:52:26.911164,,,1
+29,spore test,,Sterilization,,sterization lab,,,2018-03-07 20:53:01.985196,,,1
+30,crown seperater,Pearson,instruments,,,,,2018-03-07 20:53:42.296071,,,1
+31,tempbond cement,Pearson,crown and bridge,,,,,2018-03-07 20:54:24.913979,,,1
+32,retraction cord,Pearson,crown and bridge,,,,,2018-03-07 20:55:06.981123,,,1
+33,posterior tripel trays,Pearson,crown and bridge,,,,,2018-03-07 20:56:25.577886,,,1
+34,vivid sealant plus ,Pearson,Preventive,,,,,2018-03-07 20:57:09.666884,,,1
+35,grandiOso flowable,Pearson,composites,,,,,2018-03-07 20:58:07.300698,,,1
+36,micro brushes ,Pearson,composites,,,,,2018-03-07 20:58:53.981013,,,1
+37,sterilization  pouches 3 1/4 by 10,Pearson,Sterilization,,,,,2018-03-07 21:01:41.690865,,,1
+38,sterilization  pouches 3 1/2 by 10,Pearson,Sterilization,,,,,2018-03-07 21:02:49.078124,,,1
+39,garnet plastic disc,Pearson,burs,,,,,2018-03-07 21:03:26.768841,,,1
+40,bib clips ,Pearson,Preventive,,,,,2018-03-07 21:04:06.810363,,,1
+41,eatch,Pearson,composites,,,,,2018-03-07 21:04:49.043614,,,1
+42,puddy material ,Pearson,crown and bridge,,,,,2018-03-07 21:05:34.299537,,,1
+43,uni-grips,Pearson,x-rays,,,,,2018-03-07 21:06:30.240565,,,1
+44,endo sealar,Pearson,root canals,,,,,2018-03-07 21:07:27.553155,,,1
+45,white stones,Pearson,burs,,,,,2018-03-07 21:08:02.374931,,,1
+23,red and blue pencils,Pearson,,,,,,2018-03-07 20:47:30.273487,,,1
+9,Heavy Body Impression Material,Pearson,crown and bridge,,Treatment Room,,,2018-03-05 00:00:00.000000,,,1
+46,sensor sleeves,Pearson,Preventive,,,,,2018-03-12 16:34:45.920052,,,1
+47,air/water sleeves,Pearson,Preventive,,,,,2018-03-12 16:36:08.304213,,,1
+48,sterilization pouches 5 1/2 x 11 1/2,Pearson,Sterilization,,,,,2018-03-12 16:38:40.402466,,,1
+49,sterilization pouches 7 1/2 x13,Pearson,Sterilization,,,,,2018-03-12 16:40:07.514583,,,1
+50,headrest covers,Pearson,Preventive,,,,,2018-03-12 16:40:54.899987,,,1
+51,sterilization pouches 3 1/2 x6 1/2,Pearson,Sterilization,,,,,2018-03-12 16:41:46.101582,,,1
+52,sterilization pouches 2 1/4 x 5 ,Pearson,Sterilization,,,,,2018-03-12 16:43:21.644935,,,1
+53,blu tab,Pearson,Preventive,,,,,2018-03-12 16:43:50.647207,,,1
+54,speed clean,Pearson,Sterilization,,,,,2018-03-12 16:44:23.080781,,,1
+55,vacu blast,Pearson,Sterilization,,,,,2018-03-12 16:44:55.094264,,,1
+56,water line cleaner,Pearson,Sterilization,,,,,2018-03-12 16:45:33.440792,,,1
+57,sodium hypochlorite,Pearson,root canals,,,,,2018-03-12 16:46:17.460825,,,1
+58,canal pro EDTA,Pearson,root canals,,,,,2018-03-12 16:46:53.756825,,,1
+59,chlohexidine,Pearson,Preventive,,,,,2018-03-12 16:47:28.767149,,,1
+60,isopropyl alcohol,,Preventive,,,,,2018-03-12 16:48:14.496782,,,1
+61,sterile water,Pearson,oral surgery,,,,,2018-03-12 16:48:53.349108,,,1
+62,monojet seringe,Pearson,Preventive,,,,,2018-03-12 16:49:38.204572,,,1
+63,33 gallons plastic bags,Pearson,,,,,,2018-03-12 16:50:30.954517,,,1
+64,white plastic bags,Pearson,,,,,,2018-03-12 16:51:15.030099,,,1
+65,prophy angles,Pearson,Preventive,,,,,2018-03-12 16:52:50.797890,,,1
+101,RC prep,Pearson,root canals,,,,,2018-03-12 19:11:04.917610,,,1
+66,barrier tape,Pearson,Preventive,,,,,2018-03-12 16:53:17.703181,,,1
+67,light cure sleeves,Pearson,Preventive,,,,,2018-03-12 16:53:55.882785,,,1
+68,pumice flour ,Pearson,Preventive,,,,,2018-03-12 16:54:30.753055,,,1
+69,flouride,Pearson,Preventive,,,,,2018-03-12 16:54:59.829044,,,1
+70,surgical tips,Pearson,oral surgery,,,,,2018-03-12 16:55:31.615554,,,1
+71,surgical blades,Pearson,oral surgery,,,,,2018-03-12 16:56:15.717090,,,1
+72,saline,Pearson,composites,,,,,2018-03-12 16:57:28.957084,,,1
+73,blue etch tips,Pearson,composites,,,,,2018-03-12 16:58:28.039113,,,1
+74,black composite tips,Pearson,,,,,,2018-03-12 16:59:03.412739,,,1
+75,gc fuji liquid and powder,Pearson,composites,,,,,2018-03-12 16:59:59.804712,,,1
+76,polishing paste,Pearson,composites,,,,,2018-03-12 17:00:27.843961,,,1
+77,sealant plus,Pearson,Preventive,,,,,2018-03-12 17:01:04.059656,,,1
+78,caries detector,Pearson,composites,,,,,2018-03-12 17:01:52.222608,,,1
+79,theracal,Pearson,composites,,,,,2018-03-12 17:02:23.628609,,,1
+80,prime dent bond,Pearson,composites,,,,,2018-03-12 17:02:58.532376,,,1
+81,photocore,Pearson,composites,,,,,2018-03-12 17:03:31.722111,,,1
+84,topical anesthic,Pearson,,,,,,2018-03-12 17:05:13.694149,,,1
+85,RTR bone graft,Pearson,oral surgery,,,,,2018-03-12 17:06:01.786883,,,1
+86,membrane ,Pearson,oral surgery,,,,,2018-03-12 17:06:32.244229,,,1
+87,endo ice,Pearson,root canals,,,,,2018-03-12 18:56:32.624606,,,1
+88,cavit,Pearson,root canals,,,,,2018-03-12 18:57:24.209572,,,1
+89,high suction tips,Pearson,Preventive,,,,,2018-03-12 18:58:28.860879,,,1
+90,siliva ejectors,Pearson,Preventive,,,,,2018-03-12 18:59:14.435611,,,1
+91,2 x2 guaze,Pearson,disposibles,,,,,2018-03-12 18:59:59.417334,,,1
+92,cotton roll,Pearson,disposibles,,,,,2018-03-12 19:00:39.672147,,,1
+93,cotton tip applicators,Pearson,disposibles,,,,,2018-03-12 19:01:45.083294,,,1
+94,septodont,Pearson,anesthic,,,,,2018-03-12 19:02:21.554824,,,1
+95,lidocaine 2%,Pearson,anesthic,,,,,2018-03-12 19:03:04.212504,,,1
+96,carbocaine ,Pearson,anesthic,,,,,2018-03-12 19:03:41.630462,,,1
+97,irrigation tip,Pearson,disposibles,,,,,2018-03-12 19:04:37.781350,,,1
+98,needles short 30 g,Pearson,anesthic,,,,,2018-03-12 19:05:18.824901,,,1
+99,needles long 27g,Pearson,anesthic,,,,,2018-03-12 19:09:29.986300,,,1
+102,paper points,Pearson,root canals,,,,,2018-03-12 19:11:45.467279,,,1
+103,gutta percha points,Pearson,root canals,,,,,2018-03-12 19:12:34.063858,,,1
+104,endo files,Pearson,root canals,,,,,2018-03-12 19:13:11.249335,,,1
+105,kids tooth brushes,Pearson,Preventive,,,,,2018-03-12 19:14:04.681108,,,1
+106,electric tooth brushes,Pearson,Preventive,,,,,2018-03-12 19:14:45.452397,,,1
+107,oral b electric toothbrushes,Pearson,Preventive,,,,,2018-03-12 19:16:02.090506,,,1
+108,pola luminate bleaching,Pearson,,,,,,2018-03-12 19:17:12.825243,,,1
+109,Bibs,Pearson,disposibles,,,,,2018-03-12 19:17:52.036606,,,1
+110,light body impression material,Pearson,crown and bridge,,,,,2018-03-12 19:19:06.436633,,,1
+111,Burs,Pearson,burs,,,,,2018-03-12 19:19:43.769070,,,1
+112,Diamond burs,Pearson,burs,,,,,2018-03-12 19:20:26.896010,,,1
+113,Floss,Pearson,Preventive,,,,,2018-03-12 19:21:09.257370,,,1
+114,mouth wash,Pearson,Preventive,,,,,2018-03-12 19:21:48.934863,,,1
+115,pola luminate bleach pen,Pearson,disposibles,,,,,2018-03-12 19:22:49.274753,,,1
+116,heavy body impression material,Pearson,crown and bridge,,,,,2018-03-12 19:24:45.896211,,,1

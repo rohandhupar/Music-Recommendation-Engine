@@ -1,0 +1,6 @@
+update_by,date_txn,inventory_id,quantity_as_of_now,suggestion,company_id,expiry_date,sno,log_timestamp
+santoshp002@gmail.com,2018-02-28,3,1,help,1,2018-01-01,8,2018-03-05 21:14:46.936222
+contact@tinoiq.com,2018-02-28,6,3,33,1,2018-02-28,9,2018-03-05 21:14:46.936222
+contact@tinoiq.com,2018-02-28,4,33,3333,1,2018-02-28,10,2018-03-05 21:14:46.936222
+prashant2100@yahoo.com,2018-05-16,6,20,,1,2018-03-06,11,2018-03-07 01:50:43.978569
+santoshp002@gmail.com,2018-05-23,100,6,ok,1,2018-05-23,13,2018-05-23 07:06:20.847429

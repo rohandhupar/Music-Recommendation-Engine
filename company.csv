@@ -1,0 +1,3 @@
+company_id,company_name,admin_invitation_code,user_invitation_code,accepting_new_users,common_user_invitation_code,average_patients_treated_per_day,number_of_assistants,number_of_day_office_opens_in_week,number_of_dentist,number_of_hygienist,number_of_operatories
+2,Bright Smile,ASASG#E,SASG332,Y,SHINE123,8,,5,,,
+1,Smileydoctor,FSTHAP12,SMILE123,Y,SHINE123,8,3,5,4,2,3
